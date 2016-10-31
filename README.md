@@ -1,5 +1,7 @@
 # App Quest
 
+![HSR](http://appquest.hsr.ch/images/fho.png)
+
 ## App Quest 2016 - Android
 
 ### General
