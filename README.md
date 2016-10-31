@@ -75,3 +75,6 @@ private void log(String qrCode) {
 	startActivity(intent);
 }
 ```
+
+## License
+[MIT License](https://github.com/mirioeggmann/appquest/blob/master/LICENSE)
