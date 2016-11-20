@@ -25,7 +25,7 @@ Apps will be public when the AppQuest 2016 is over.
 - [x] 1. App [Metal Detector](https://github.com/mirioeggmann/appquest-metal-detector) (deadline: none)
 - [x] 2. App [Memory](https://github.com/mirioeggmann/appquest-memory) (deadline: 8.10.2016)
 - [x] 3. App [Treasure Map]() (deadline: 29.10.2016)
-- [ ] 4. App [Pedometer]() (deadline: 19.11.2016)
+- [x] 4. App [Pedometer]() (deadline: 19.11.2016)
 - [ ] 5. App [Pixel Painter]() (deadline: none)
 
 ### Given code snippets
