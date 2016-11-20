@@ -20,6 +20,8 @@
 | Required Apps | [AppQuest Logbuch](http://appquest.hsr.ch/logbuch.apk), [Barcode Scanner](https://play.google.com/store/apps/details?id=com.google.zxing.client.android)|
 
 ### Apps
+Apps will be public when the AppQuest 2016 is over.
+
 - [x] 1. App [Metal Detector](https://github.com/mirioeggmann/appquest-metal-detector) (deadline: none)
 - [x] 2. App [Memory](https://github.com/mirioeggmann/appquest-memory) (deadline: 8.10.2016)
 - [x] 3. App [Treasure Map]() (deadline: 29.10.2016)
