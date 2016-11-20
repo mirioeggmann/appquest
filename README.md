@@ -5,7 +5,7 @@
 ## App Quest 2016 - Android
 
 ### About
-The App Quest is an event of the [HSR](https://www.hsr.ch/Home.home.0.html) where you can learn programming apps for android or ios. In 12 weeks you have to program 5 applications and in the end of the event you can use them to win the Treasure Hunt and earn some cool stuff.
+The [App Quest](http://appquest.ch/) is an event of the [HSR](https://www.hsr.ch/Home.home.0.html) where you can learn programming apps for android or ios. In 12 weeks you have to program 5 applications and in the end of the event you can use them to win the Treasure Hunt and earn some cool stuff.
 
 ### General
 
