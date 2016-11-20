@@ -18,7 +18,6 @@
 | Organizer | [Mirko Stocker](https://github.com/misto) |
 | Operating System | Android |
 | Required Apps | [AppQuest Logbuch](http://appquest.hsr.ch/logbuch.apk), [Barcode Scanner](https://play.google.com/store/apps/details?id=com.google.zxing.client.android)|
-| Logbuch Test Account | user: HSR-TEST pw: 482ae9 |
 
 ### Apps
 - [x] 1. App [Metal Detector](https://github.com/mirioeggmann/appquest-metal-detector) (deadline: none)
