@@ -26,7 +26,7 @@ Apps will be public when the AppQuest 2016 is over.
 - [x] 2. App [Memory](https://github.com/mirioeggmann/appquest-memory) (deadline: 8.10.2016)
 - [x] 3. App [Treasure Map](https://github.com/mirioeggmann/appquest-treasure-map) (deadline: 29.10.2016)
 - [x] 4. App [Pedometer](https://github.com/mirioeggmann/appquest-pedometer) (deadline: 19.11.2016)
-- [ ] 5. App [Pixel Painter](https://github.com/mirioeggmann/appquest-pixel-painter) (deadline: none)
+- [x] 5. App [Pixel Painter](https://github.com/mirioeggmann/appquest-pixel-painter) (deadline: none)
 
 ### Given code snippets
 
